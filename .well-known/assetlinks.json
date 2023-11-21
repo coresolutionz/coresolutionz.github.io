@@ -1,9 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.coresolutionz.encore",
-    "sha256_cert_fingerprints":
-    ["D8:A0:43:29:61:01:5E:A0:C5:56:28:69:47:97:D3:C2:00:85:78:07:E8:2B:C5:0C:27:F1:40:3D:FF:BE:82:F6"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.coresolutionz.encore",
+      "sha256_cert_fingerprints": [
+        "7D:7B:75:EB:A3:3C:88:4E:90:7F:A7:8A:F5:08:0E:1C:26:88:47:EF:89:87:85:63:7C:2F:14:EA:85:B4:D4:29"
+      ]
+    }
   }
-}]
+]
